@@ -19,3 +19,10 @@
 * [MANTA](https://manta.network/)
 * [ZEITGEIST](https://zeitgeist.pm/)
 * [YUSER](https://yuser.co/)
+
+### Been running nodes for:
+* Radicle
+* Clover
+* Rizond
+* Moonbeam
+* Zeitgeist
