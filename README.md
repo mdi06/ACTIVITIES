@@ -20,7 +20,8 @@
 * [ZEITGEIST](https://zeitgeist.pm/)
 * [YUSER](https://yuser.co/)
 
-### Been running nodes for:
+### Been running testnet nodes for:
+* Agoric
 * Radicle
 * Clover
 * Rizond
