@@ -17,8 +17,6 @@
 ### Pround Ambassador of such projects as:
 * [MOONBEAM](https://moonbeam.network/)
 * [MANTA](https://manta.network/)
-* [ZEITGEIST](https://zeitgeist.pm/)
-* [YUSER](https://yuser.co/)
 
 ### Been running testnet nodes for:
 * Agoric
@@ -27,3 +25,5 @@
 * Rizond
 * Moonbeam
 * Zeitgeist
+* Axelar
+* SSV
