@@ -8,7 +8,7 @@
 ### Proud Ambassador of such projects as:
 * [MOONBEAM](https://moonbeam.network/)
 
-### Been running testnet validators for:
+### Been validating testnets for:
 * [Agoric](https://agoric.com/)
 * [Radicle](https://radicle.xyz/)
 * [Clover](https://www.clover.com/?lng=en-US)
