@@ -7,6 +7,7 @@
 
 ### Proud Ambassador of such projects as:
 * [MOONBEAM](https://moonbeam.network/)
+* [ARCHWAY](https://archway.io/)
 
 ### Been validating testnets for:
 * [Agoric](https://agoric.com/)
@@ -17,4 +18,5 @@
 * [Axelar](https://axelar.network/)
 * [SSV](https://ssv.network/)
 * [Quicksilver](https://quicksilver.zone/)
+* [APTOS](https://aptoslabs.com/)
 * [Sui](https://sui.io/)
