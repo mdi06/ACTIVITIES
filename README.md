@@ -9,7 +9,7 @@
 * [MOONBEAM](https://moonbeam.network/)
 * [ARCHWAY](https://archway.io/)
 
-### Been validating testnets for:
+### Been validating for:
 * [Agoric](https://agoric.com/)
 * [Radicle](https://radicle.xyz/)
 * [Clover](https://www.clover.com/?lng=en-US)
